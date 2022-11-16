@@ -1,5 +1,5 @@
-function convert(conversion_type) {
+function convert(number) {
   // your solution
 }
 
-module.exports = conversion;
+module.exports = convert;
